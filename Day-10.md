@@ -4,7 +4,7 @@
 ---
 
 ## 🎯 **Objective**  
-The objective of this lab is to help students analyze **TLS (Transport Layer Security)** traffic using **Wireshark**. Students will explore how TLS secures data over the network, understand handshake messages, and identify metadata like server names and certificate details.
+The objective of this lab is to help to analyze **TLS (Transport Layer Security)** traffic using **Wireshark**. We will explore how TLS secures data over the network, understand handshake messages, and identify metadata like server names and certificate details.
 
 ---
 
@@ -67,3 +67,5 @@ Submit a screenshot showing:
 - Show all TLS traffic
 - Show Client Hello messages
 - Show TLS 1.2 traffic   
+
+- [x] **LinkedIn Post:** [View My Post Here](https://www.linkedin.com/posts/prajwal-kunte-008869313_socanalyst-tls-wireshark-activity-7353066475902906368-T6Vs?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-u8sgBVqzP55c4GvPwfw20YNMFfe4EJ7U)
