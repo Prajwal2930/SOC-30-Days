@@ -100,4 +100,6 @@ Submit screenshots showing:
 - Process termination (kill or pkill)
 - IP block using UFW or iptables
 - Written summary of incident
+
+
 - [x] **LinkedIn Post:** [View My Post Here](https://www.linkedin.com/posts/prajwal-kunte-008869313_cybersecurity-incidentresponse-linuxsecurity-activity-7354894906575745024-SMjd?utm_source=share&utm_medium=member_desktop&rcm=ACoAAE-u8sgBVqzP55c4GvPwfw20YNMFfe4EJ7U)
